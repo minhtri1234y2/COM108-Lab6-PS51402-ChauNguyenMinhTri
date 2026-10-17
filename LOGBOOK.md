@@ -17,8 +17,8 @@
 - Cách sửa / Bài học: dùng AI chạy đc full
 
 ### Lần 2: Bài 1
-- Trạng thái: 
-- Lỗi / Cách sửa: 
+- Trạng thái: chờ comment bài 1
+- Lỗi / Cách sửa: sửa lại cho code gọn hơn
 
 ### Lần 3: Bài 1 (Dự phòng)
 - Trạng thái: 

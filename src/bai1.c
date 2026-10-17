@@ -58,22 +58,22 @@ void lamMinTinHieu(float raw[], float smooth[], int n)
         return;
     }
 
-    // Trường hợp n >= 2: Xử lý từng vị trí theo quy tắc biên
+   
     for (int i = 0; i < n; i++) 
     {
         if (i == 0) 
         {
-            // Ô đầu tiên: Trung bình cộng của 2 phần tử đầu
+           
             smooth[i] = (raw[0] + raw[1]) / 2.0f;
         } 
         else if (i == n - 1) 
         {
-            // Ô cuối cùng: Trung bình cộng của 2 phần tử cuối
+            
             smooth[i] = (raw[n - 2] + raw[n - 1]) / 2.0f;
         } 
         else 
         {
-            // Các ô ở giữa: Trung bình cộng của 3 phần tử (trước, hiện tại, sau)
+            
             smooth[i] = (raw[i - 1] + raw[i] + raw[i + 1]) / 3.0f;
         }
     }
