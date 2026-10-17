@@ -1,7 +1,7 @@
 # NHẬT KÝ THỰC HIỆN LAB 6 (LOGBOOK)
 
-* **Họ và tên:** 
-* **Mã sinh viên:** 
+* **Họ và tên: Châu Nguyễn Minh Trí
+* **Mã sinh viên: PS 51402
 * **Link Repository cá nhân:** 
 
 > [!NOTE]
@@ -12,9 +12,9 @@
 
 ### Lần 1: Bài 1 - Bộ Lọc Làm Mịn Tín Hiệu (Moving Average)
 - Trạng thái: Chờ chấm
-- Prompt hỏi AI (nếu có): 
-- Lỗi phát hiện qua Test (nếu có): 
-- Cách sửa / Bài học: 
+- Prompt hỏi AI (nếu có): ![alt text](image.png) có dùng AI
+- Lỗi phát hiện qua Test (nếu có): không phát hiện lỗi
+- Cách sửa / Bài học: dùng AI chạy đc full
 
 ### Lần 2: Bài 1
 - Trạng thái: 
