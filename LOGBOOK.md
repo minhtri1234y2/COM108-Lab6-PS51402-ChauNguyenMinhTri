@@ -59,18 +59,18 @@
 ---
 
 ### Lần 10: Bài 4 - Radar Dò Điểm Nóng (Thermal Peak Detection)
-- Trạng thái: 
+- Trạng thái: không chạy được
 - Prompt hỏi AI (nếu có): 
-- Lỗi phát hiện qua Test (nếu có): 
-- Cách sửa / Bài học: 
+- Lỗi phát hiện qua Test (nếu có): ![alt text](image-5.png)
+- Cách sửa / Bài học: đang hỏi AI cách sửa
 
 ### Lần 11: Bài 4
-- Trạng thái: 
-- Lỗi / Cách sửa: 
+- Trạng thái: không chạy được
+- Lỗi / Cách sửa: chưa kiếm được cách sửa
 
 ### Lần 12: Bài 4
-- Trạng thái: 
-- Lỗi / Cách sửa: 
+- Trạng thái: đã chạy được ![alt text](image-6.png)
+- Lỗi / Cách sửa: Lỗi nằm ở câu lệnh kiểm tra ô phía dưới do bạn gõ nhầm chỉ số thành a[i][i] thay vì a[i][j].Bạn chỉ cần sửa lại thành if (i < row - 1 && a[i][j] <= a[i + 1][j]) để so sánh chính xác phần tử hiện tại với hàng dưới.
 
 ### Lần 13: Bài 4 (Dự phòng)
 - Trạng thái: 
