@@ -45,12 +45,12 @@
 ### Lần 7: Bài 3 - Bộ Lọc Làm Mờ Điểm Ảnh (Box Blur Filter 3x3)
 - Trạng thái: chưa chạy đc code
 - Prompt hỏi AI (nếu có): đang tra AI cách sửa
-- Lỗi phát hiện qua Test (nếu có): 
+- Lỗi phát hiện qua Test (nếu có): ![alt text](image-3.png)
 - Cách sửa / Bài học: đang kiếm cách sửa
 
 ### Lần 8: Bài 3
-- Trạng thái: ![alt text]
-- Lỗi / Cách sửa: AI chỉ cách sửa và thực hiện theo ![alt text]
+- Trạng thái: đã chạy được ![alt text](image-4.png)
+- Lỗi / Cách sửa: AI chỉ cách sửa và thực hiện theo 
 
 ### Lần 9: Bài 3 (Dự phòng)
 - Trạng thái: 
