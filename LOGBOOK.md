@@ -27,13 +27,13 @@
 ---
 
 ### Lần 4: Bài 2 - Nén Sai Phân Dữ Liệu IoT (Delta Encoding)
-- Trạng thái: không chạy được
-- Prompt hỏi AI (nếu có): ![alt text](image-4.png)
-- Lỗi phát hiện qua Test (nếu có): ![alt text](image-5.png)
+- Trạng thái: không chạy được ![alt text](image.png)
+- Prompt hỏi AI (nếu có): 
+- Lỗi phát hiện qua Test (nếu có): ![alt text](image-1.png)
 - Cách sửa / Bài học: đang hỏi AI
 
 ### Lần 5: Bài 2
-- Trạng thái: đã chạy được ![alt text](image-6.png)
+- Trạng thái: đã chạy được ![alt text](image-2.png)
 - Lỗi / Cách sửa: Tìm giá trị lớn nhất trong mảng 1 chiều,tính tổng các phần tử trên đường chéo phụ của ma trận vuông
 
 ### Lần 6: Bài 2 (Dự phòng)
@@ -45,12 +45,12 @@
 ### Lần 7: Bài 3 - Bộ Lọc Làm Mờ Điểm Ảnh (Box Blur Filter 3x3)
 - Trạng thái: chưa chạy đc code
 - Prompt hỏi AI (nếu có): đang tra AI cách sửa
-- Lỗi phát hiện qua Test (nếu có): ![alt text](image-1.png)
+- Lỗi phát hiện qua Test (nếu có): 
 - Cách sửa / Bài học: đang kiếm cách sửa
 
 ### Lần 8: Bài 3
-- Trạng thái: ![alt text](image-3.png) đã chạy được code
-- Lỗi / Cách sửa: AI chỉ cách sửa và thực hiện theo ![alt text](image-2.png)
+- Trạng thái: ![alt text]
+- Lỗi / Cách sửa: AI chỉ cách sửa và thực hiện theo ![alt text]
 
 ### Lần 9: Bài 3 (Dự phòng)
 - Trạng thái: 
